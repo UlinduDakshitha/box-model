@@ -1,0 +1,40 @@
+.title2{
+    background-color: purple;
+    color: white;
+
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: ;
+} 
+#acpt{
+    border: 2px solid black;
+}
+
+.acpt{
+     box-shadow: 2px 3px 10px 1px black;
+}
+
+h3{
+    background-color: violet;
+}
+
+*{
+
+    margin: 0;
+    /*background-color: blanchedalmond;*/
+}
+ 
+div > h4{
+    color: blue;
+}
+
+.box{
+    padding:100px;
+    border: 50px solid black;
+    margin:100px;
+}
+
